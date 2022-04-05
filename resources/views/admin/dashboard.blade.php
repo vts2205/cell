@@ -1,5 +1,5 @@
 @extends('layouts.parent')
 @section('content')
 
-Admin
+admin
 @endsection
