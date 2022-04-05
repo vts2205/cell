@@ -1,0 +1,263 @@
+# Webalizer V2.23-08 Incremental Data - 01/17/2022 09:50:17
+2022 1 17 9 50 17
+79 62 28 12 6 13 12837822 43 28 0 0 0
+1 1 22 1 17
+2 2 10531 2 2 2 0 0
+1 1 4141 1 1 1 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+25 21 2022390 4 11 4 0 0
+0 0 0 0 0 0 0 0
+1 1 4141 1 1 1 0 0
+16 15 1433235 4 3 3 0 0
+12 12 9262992 3 3 3 0 0
+11 3 58075 5 11 5 0 0
+7 4 31196 5 7 5 0 0
+0 0 0 0 0 0 0 0
+2 2 3239 2 2 2 0 0
+0 0 0 0 0 0 0 0
+1 0 6829 1 1 1 0 0
+0 0 0 0 0 0 0 0
+1 1 1053 1 1 1 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+1 0 6829 1 0 0
+1 0 6829 1 0 0
+1 1 4141 1 0 0
+13 13 9264045 4 0 0
+1 1 4141 1 0 0
+3 0 20487 3 0 0
+0 0 0 0 0 0
+1 1 2186 1 0 0
+0 0 0 0 0 0
+2 2 2106 2 0 0
+2 2 2473 1 0 0
+25 18 2036623 12 0 0
+0 0 0 0 0 0
+1 1 9478 1 0 0
+1 1 4141 1 0 0
+4 4 7621 4 0 0
+0 0 0 0 0 0
+2 2 5194 2 0 0
+16 11 1232227 7 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 1 4141 1 0 0
+4 4 225160 0 0 0
+0
+0
+0
+62
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+1
+0
+0
+0
+0
+0
+3
+10
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/css/materialdesignicons.min.css
+0 3 0 86891 0 0 0 0
+/password/reset
+0 1 0 2100 0 0 0 0
+/favicon.ico
+0 9 0 2353 0 0 0 0
+/fonts/Ubuntu/Ubuntu-Medium.woff2
+0 2 0 180988 0 0 0 0
+/js/app.js
+0 6 0 11288944 0 0 0 0
+/fonts/Ubuntu/Ubuntu-Light.woff2
+0 3 0 303006 0 0 0 0
+/css/style.css
+0 4 0 349664 0 0 0 0
+/fonts/Ubuntu/Ubuntu-Regular.woff2
+0 2 0 199436 0 0 0 0
+/css/vendor.bundle.base.css
+0 3 0 2909 0 0 0 0
+/
+0 26 0 73567 23 1 0 0
+/robots.txt
+0 1 0 262 0 0 0 0
+/fonts/Ubuntu/Ubuntu-Bold.woff2
+0 3 0 254006 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+45.129.18.151
+0 1 1 1053 1 1642095555 0 0
+/
+202.53.4.54
+0 13 9 819287 1 1641380971 0 0
+/password/reset
+106.75.134.236
+0 4 4 3087670 1 1641700612 0 0
+/
+34.77.162.12
+0 1 1 4141 1 1641355392 0 0
+/
+51.15.251.143
+0 1 1 9478 1 1641044402 0 0
+/
+142.93.253.189
+0 1 0 6829 1 1642271403 0 0
+-
+77.74.177.119
+0 1 1 2186 1 1642060165 0 0
+/
+106.75.173.98
+0 4 4 3087676 1 1641700612 0 0
+/
+103.153.68.244
+0 5 1 28293 1 1641838728 0 0
+-
+49.44.85.41
+0 9 9 1196489 1 1641380970 0 0
+/
+167.94.138.43
+0 1 1 2186 1 1641914940 0 0
+/
+45.129.18.16
+0 1 1 1053 1 1641050305 0 0
+/
+120.52.152.20
+0 4 4 3087646 1 1641700612 0 0
+/
+144.202.91.18
+0 3 0 20847 1 1641815173 0 0
+-
+45.129.18.17
+0 1 1 1053 1 1641784480 0 0
+/
+45.129.18.21
+0 1 1 1053 1 1641805745 0 0
+/
+34.96.130.1
+0 1 1 4141 1 1641867380 0 0
+/
+167.248.133.58
+0 1 1 2193 1 1641914864 0 0
+/
+92.118.160.37
+0 2 2 8282 2 1641664754 0 0
+/
+42.106.178.32
+0 4 4 225160 0 0 0 0
+-
+167.248.133.113
+0 1 1 2189 1 1641914855 0 0
+/
+34.86.35.21
+0 1 1 4141 1 1641565680 0 0
+/
+5.189.170.189
+0 1 0 6829 1 1641601290 0 0
+-
+64.246.161.42
+0 2 2 2473 1 1641378398 0 0
+/
+45.129.18.128
+0 1 1 1053 1 1642413017 0 0
+/
+184.168.101.89
+0 1 0 6829 1 1641777036 0 0
+-
+27.97.27.40
+0 10 10 1197105 1 1641666600 0 0
+/
+66.115.173.18
+0 3 0 20487 1 1641879645 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+45.129.18.128
+0 1 1 1053 1 1642413017 0 0
+/
+# End Of Table - sites (daily)
+# -referrers- 
+https://www.google.com/
+0 1
+- (Direct Request)
+0 40
+https://www.bing.com
+0 1
+http://webstormers-demo.ga
+0 4
+http://webstormers-demo.ga/css/style.css
+0 10
+http://webstormers-demo.ga/
+0 23
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0
+0 14
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
+0 12
+Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+0 9
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36
+0 5
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2049.0 Safari/537.36
+0 5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:59.0) Gecko/20100101 Firefox/59.0
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+0 3
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+0 6
+Expanse indexes the network perimeters of our customers. If you have any questions or concerns, please reach out to: scaninfo
+0 3
+NetSystemsResearch studies the availability of various services across the internet. Our website is netsystemsresearch.com
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+0 13
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
